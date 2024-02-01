@@ -1,0 +1,10 @@
+# Ignore a specific directory
+application_data/
+data/
+lfw/
+training_checkpoints/
+__pycache__
+
+# Ignore specific files
+lfw.tgz
+siamesemodel.h5
